@@ -1,2 +1,5 @@
-a=[6,3,0,-3,7]
+k_el=int(input())
+a=[]
+for b in range(k_el):
+	a.append(int(input())
 print(max(a))
