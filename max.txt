@@ -2,4 +2,4 @@ k_el=int(input())
 a=[]
 for b in range(k_el):
 	a.append(int(input())
-print(max(a))
+print(min(a))

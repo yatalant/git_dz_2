@@ -1,1 +1,1 @@
-max.txt for find max el
+max.txt for find min element
